@@ -1,0 +1,5 @@
+origin is (0,0);
+rot is pi/2;
+scale is (100, 100);
+for t from 0 to 6*pi step pi/50 draw (10*cos(60*t)+pi*10*60*t/180*sin(60*t),10*sin(60*t)-pi*10*60*t/180*cos(60*t));
+
