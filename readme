@@ -1,0 +1,6 @@
+This is a interpreter to draw graphs according the user-defined language.
+The user-defined language includes origin,rot,scale,for;
+function of origin:set the offest of the origin
+function of rot:set the rotation angle of the graph (anticlockwise)
+function of scale:the scale of x,y
+function for:for T from x to y draw(function(x),function(y))
